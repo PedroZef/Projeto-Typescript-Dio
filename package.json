@@ -1,0 +1,21 @@
+{
+  "name": "typescript-dio",
+  "version": "1.0.0",
+  "description": "Projeto Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  
+  },
+  "author": "PedroZef",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+  
+}
